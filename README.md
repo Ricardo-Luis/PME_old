@@ -1,1 +1,2 @@
-# PME: Projecto de Máquinas Eléctricas
+# PME - Projecto de Máquinas Eléctricas
+ISEL\ADEEEA\MEE
